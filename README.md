@@ -34,3 +34,6 @@
 
 If the given text is out of the given six basic emotions, the text has 0 0 0 0 0 0 column values under Anger, Disgust, Fear, Sadness, Joy, and Surprise emotion columns.
 
+
+# Incontext Learning (ICL) Results 
+ [![](k-shots-results.png)](https://github.com/Tadesse-Destaw/EthiopicEmotion/)
