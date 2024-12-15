@@ -1,6 +1,7 @@
 
 # EthiopicEmotion
-[![](emotions.jpg)](https://github.com/Tadesse-Destaw/EthiopicEmotion/Processing scripts/)
+[![](emotions.jpg)](https://github.com/Tadesse-Destaw/EthiopicEmotion/)
+
 The EthioEmo dataset split into 60:30:10 train, test, and dev, respectively.
 
 This dataset is available also in [Hugging Face](https://huggingface.co/datasets/Tadesse/EthioEmo)
