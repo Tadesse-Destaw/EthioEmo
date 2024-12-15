@@ -11,7 +11,7 @@ This dataset is available also in [Hugging Face](https://huggingface.co/datasets
 |Sadness     1253	|Sadness     2013	|Sadness      509	|Sadness      652	|Sadness      984|
 |Joy          918	|Joy         1468	|Joy         1821	|Joy          991	|Joy          690|
 |Surprise     260	|Surprise     287	|Surprise     225	|Surprise     295	|Surprise     605|
-|**Train** 	|**Train** 	|**Train** 	|**Train** 	|**Train** |
+<!--|**Train** 	|**Train** 	|**Train** 	|**Train** 	|**Train** |
 |Anger       1188	|Anger       1429	|Anger        646	|Anger        328	|Anger        547|
 |Disgust     1268	|Disgust     1878	|Disgust      557	|Disgust      477	|Disgust     1311|
 |Fear         109	|Fear         145	|Fear         123	|Fear         305	|Fear         138|
@@ -31,7 +31,7 @@ This dataset is available also in [Hugging Face](https://huggingface.co/datasets
 |Fear         22	|Fear         22	|Fear         21	|Fear         50	|Fear         23|
 |Sadness     127	|Sadness     203	|Sadness      52	|Sadness      67	|Sadness      97|
 |Joy          93	|Joy         147	|Joy         183	|Joy          99	|Joy          68|
-|Surprise     27	|Surprise     31	|Surprise     27	|Surprise     28	|Surprise     64|
+|Surprise     27	|Surprise     31	|Surprise     27	|Surprise     28	|Surprise     64|-->
 
 If the given text is out of the given six basic emotions, the text has 0 0 0 0 0 0 column values under Anger, Disgust, Fear, Sadness, Joy, and Surprise emotion columns.
 
