@@ -1,5 +1,7 @@
+
 # EthiopicEmotion
-60:30:10 train, test, and dev splitting, respectively.
+[![](emotions.jpg)](https://github.com/Tadesse-Destaw/EthiopicEmotion/Processing scripts/)
+The EthioEmo dataset split into 60:30:10 train, test, and dev, respectively.
 
 This dataset is available also in [Hugging Face](https://huggingface.co/datasets/Tadesse/EthioEmo)
 |Emotion|Amharic_emotion|	Amharic_intensity|	Oromo_emotion|	Somali_emotion|	Tigrinya_emotion|
