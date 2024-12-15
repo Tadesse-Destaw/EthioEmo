@@ -2,15 +2,15 @@
 60:30:10 train, test, and dev splitting, respectively.
 
 This dataset is available also in [Hugging Face](https://huggingface.co/datasets/Tadesse/EthioEmo)
-|Amharic_emotion|	Amharic_intensity|	Oromo_emotion|	Somali_emotion|	Tigrinya_emotion|
+|Emotion|Amharic_emotion|	Amharic_intensity|	Oromo_emotion|	Somali_emotion|	Tigrinya_emotion|
 | --- | --- |--- | --- |--- |
-|**Total data** |	**Total data**| 	**Total data**| 	**Total data**| 	**Total data** |
-|Anger       1977	|Anger       2364|	Anger       1077	|Anger        546	|Anger        912|
-|Disgust     2105	|Disgust     3134	|Disgust      926	|Disgust      801	|Disgust     2175|
-|Fear         185	|Fear         239	|Fear         209	|Fear         504	|Fear         235|
-|Sadness     1253	|Sadness     2013	|Sadness      509	|Sadness      652	|Sadness      984|
-|Joy          918	|Joy         1468	|Joy         1821	|Joy          991	|Joy          690|
-|Surprise     260	|Surprise     287	|Surprise     225	|Surprise     295	|Surprise     605|
+| |**Total data** |	**Total data**| 	**Total data**| 	**Total data**| 	**Total data** |
+|Anger|Anger       1977	|Anger       2364|	Anger       1077	|Anger        546	|Anger        912|
+|Disgust|Disgust     2105	|Disgust     3134	|Disgust      926	|Disgust      801	|Disgust     2175|
+|Fear|Fear         185	|Fear         239	|Fear         209	|Fear         504	|Fear         235|
+|Sadness|Sadness     1253	|Sadness     2013	|Sadness      509	|Sadness      652	|Sadness      984|
+|Joy|Joy          918	|Joy         1468	|Joy         1821	|Joy          991	|Joy          690|
+|Surprise|Surprise     260	|Surprise     287	|Surprise     225	|Surprise     295	|Surprise     605|
 <!--|**Train** 	|**Train** 	|**Train** 	|**Train** 	|**Train** |
 |Anger       1188	|Anger       1429	|Anger        646	|Anger        328	|Anger        547|
 |Disgust     1268	|Disgust     1878	|Disgust      557	|Disgust      477	|Disgust     1311|
