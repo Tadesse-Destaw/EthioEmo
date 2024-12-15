@@ -4,12 +4,12 @@
 This dataset is available also in [Hugging Face](https://huggingface.co/datasets/Tadesse/EthioEmo)
 |Emotion|Amharic_emotion|	Amharic_intensity|	Oromo_emotion|	Somali_emotion|	Tigrinya_emotion|
 | ---| --- | --- |--- | --- |--- |
-|Anger|Anger       1977	|Anger       2364|	Anger       1077	|Anger        546	|Anger        912|
-|Disgust|Disgust     2105	|Disgust     3134	|Disgust      926	|Disgust      801	|Disgust     2175|
-|Fear|Fear         185	|Fear         239	|Fear         209	|Fear         504	|Fear         235|
-|Sadness|Sadness     1253	|Sadness     2013	|Sadness      509	|Sadness      652	|Sadness      984|
-|Joy|Joy          918	|Joy         1468	|Joy         1821	|Joy          991	|Joy          690|
-|Surprise|Surprise     260	|Surprise     287	|Surprise     225	|Surprise     295	|Surprise     605|
+|Anger|1977	|2364|1077	|546	|912|
+|Disgust|2105	|3134	|926	|801	|2175|
+|Fear|185	|239	|209	|504	|235|
+|Sadness|1253	|2013	|509	|652	|984|
+|Joy|918	|1468	|1821	|991	|690|
+|Surprise|260	|287	|225	|295	|605|
 <!--|**Train** 	|**Train** 	|**Train** 	|**Train** 	|**Train** |
 |Anger       1188	|Anger       1429	|Anger        646	|Anger        328	|Anger        547|
 |Disgust     1268	|Disgust     1878	|Disgust      557	|Disgust      477	|Disgust     1311|
