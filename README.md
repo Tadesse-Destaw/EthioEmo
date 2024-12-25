@@ -48,7 +48,8 @@ To cite the paper and dataset, use the the following [paper](https://arxiv.org/a
 author={Belay, Tadesse Destaw and Azime, Israel Abebe and Ayele, Abinew Ali and Grigori, Sidorov and Dietrich, Klakow and Philipp, Slusallek and Olga, Kolesnikova and Yimam, Seid Muhie },  
 booktitle={The 31st International Conference on Computational Linguistics (COLING 2025)},   
 title={Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding},   
-year={2024},  
+year={2024},
+url={https://arxiv.org/abs/2412.17837}, 
 pages={84-89},  
 }
 
