@@ -49,8 +49,7 @@ author={Belay, Tadesse Destaw and Azime, Israel Abebe and Ayele, Abinew Ali and 
 booktitle={The 31st International Conference on Computational Linguistics (COLING 2025)},   
 title={Evaluating the Capabilities of Large Language Models for Multi-label Emotion Understanding},   
 year={2024},
-url={https://arxiv.org/abs/2412.17837}, 
-pages={84-89},  
+url={https://arxiv.org/abs/2412.17837},   
 }
 
 ```
