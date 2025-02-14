@@ -41,7 +41,7 @@ If the given text is out of the given six basic emotions, the text has 0 0 0 0 0
 # Incontext Learning (ICL) Results 
  [![](k-shots-results.png)](https://github.com/Tadesse-Destaw/EthiopicEmotion/)
 
-To cite the paper and dataset, use the the following [paper](https://arxiv.org/abs/2210.15224)
+To cite the paper and dataset, use the the following [paper](https://aclanthology.org/2025.coling-main.237/)
 
 ```
 @inproceedings{belay-etal-2025-evaluating,
